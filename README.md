@@ -106,7 +106,3 @@ docker compose up -d --build
 * **EaglercraftX Client** – © LAX1DUDE
 * **Eaglercraft Paper Server Template** – [https://github.com/Eaglercraft-Templates/Eaglercraft-Server-Paper](https://github.com/Eaglercraft-Templates/Eaglercraft-Server-Paper)
 * Docker configuration written by this repository’s authors
-
----
-
-If you'd like, I can also generate badges, screenshots, or an ASCII-style project logo for the top of the README.
