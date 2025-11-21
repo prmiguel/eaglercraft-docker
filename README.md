@@ -1,10 +1,11 @@
 # Eaglercraft Docker
 
 A simple Docker-based setup for running both the **EaglercraftX 1.8.8 Offline Client** and the **Eaglercraft Paper Server**.
+
 This repository includes:
 
-* **Dockerfile.client** – Builds the Eaglercraft web client
-* **Dockerfile.server** – Builds and runs the Eaglercraft server (Paper-based)
+* **client/Dockerfile** – Builds the Eaglercraft web client
+* **server/Dockerfile** – Builds and runs the Eaglercraft server (Paper-based)
 * **compose.yml** – Deploys both services together with a single command
 
 ---
