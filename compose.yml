@@ -1,0 +1,10 @@
+---
+services:
+  client:
+    image: client
+    ports:
+      - 80:80
+  server:
+    image: server
+    ports:
+      - 25565:25565
